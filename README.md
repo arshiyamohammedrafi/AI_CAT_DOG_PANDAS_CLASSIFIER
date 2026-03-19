@@ -135,12 +135,20 @@ Include these images inside your GitHub repo:
 * **VS Code Terminal showing YOLO inference logs**
 * **Similarity search results**
 
+<img width="1868" height="849" alt="image" src="https://github.com/user-attachments/assets/2e6879ab-f30d-4d94-ab59-0688eca57f64" />
 
-<img width="1915" height="871" alt="image" src="https://github.com/user-attachments/assets/1ac2ba07-e482-43d2-b484-9fb1f69758b0" />
-<img width="1919" height="812" alt="image" src="https://github.com/user-attachments/assets/c7574117-9e71-4fdf-8038-6436c734ec5e" />
-<img width="1773" height="826" alt="image" src="https://github.com/user-attachments/assets/03d9d3b7-d683-4ae3-a82e-075132a74023" />
 
-<img width="1911" height="905" alt="image" src="https://github.com/user-attachments/assets/46f260db-afe9-42f6-b0e8-96008cdeaf41" />
+
+<img width="1851" height="821" alt="image" src="https://github.com/user-attachments/assets/81ab1853-8a84-4fbd-a421-bbc55505a8ee" />
+
+<img width="1847" height="788" alt="image" src="https://github.com/user-attachments/assets/557d7d2c-166c-4643-b7ba-80374ab426d8" />
+
+<img width="1802" height="792" alt="image" src="https://github.com/user-attachments/assets/de853c61-5dfe-4674-83d5-e15919e03251" />
+
+<img width="1802" height="858" alt="image" src="https://github.com/user-attachments/assets/605a37e5-579c-4765-9ef2-9911a5d1c228" />
+
+
+
 
 
 
